@@ -1,0 +1,6 @@
+build
+dist
+*.pyc
+virtualenv
+.DS_Store
+.Python
